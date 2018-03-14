@@ -2,25 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Rec Room</title>
-<link>https://www.apple.com/itunes/podcasts/</link>
+<link>https://www.reddit.com/r/RecRoom/</link>
 <language>en-us</language>
-<copyright>&#8471; &amp; &#xA9; 2017 cheese_PETE</copyright>
+<copyright>&amp; &#xA9; 2017 cheese_PETE</copyright>
 <itunes:subtitle>Your new place for all things Rec Room</itunes:subtitle>
 <itunes:author>cheese_PETE</itunes:author>
 <itunes:summary>The perfect place for all things rec Room</itunes:summary>
 <description>Join cheese_PETE and other guest from AG and the Rec Room community</description>
-<itunes:type>serial</itunes:type>
+<itunes:type>episodic</itunes:type>
 <itunes:owner>
 <itunes:name>Rec Room Podcast</itunes:name>
 <itunes:email>recnetpodcast@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:image href="https://sites.google.com/site/recroompod/home/IMG_0516.jpg"/>
-<itunes:category text="Recreation &amp; Video Games">
+<itunes:category text="Video Games">
 </itunes:category>
 <itunes:explicit>no</itunes:explicit>
 <item>
-<itunes:episodeType>Full</itunes:episodeType>
+<itunes:episodeType>full</itunes:episodeType>
 <itunes:title>Then there was one...</itunes:title>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
 <title>Rec Room Trailer</title>
 <itunes:author>cheese_PETE</itunes:author>
 <itunes:subtitle>The pirate update, and the creators contest creators contest</itunes:subtitle>
@@ -29,7 +31,7 @@
 <content:encoded><![CDATA[Today we share some highlights from the QnA (Courtesy of Notourous R.B.G) and talk creators contest. Listen on <a href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.</content:encoded>
 <enclosure length="498537" type="audio/mpeg" url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"/>
 <guid>http://example.com/podcasts/archive/aae20160418.mp3</guid>
-<pubDate>Tue, 12 Apr 2016 01:15:00 +3000</pubDate>
+<pubDate>Wed, 13 Mar 2017 02:25:00 +3000</pubDate>
 <itunes:duration>17:59</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 </item>
